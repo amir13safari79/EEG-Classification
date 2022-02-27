@@ -1,6 +1,6 @@
 %% In the name of ALLAH
 % CI project: phase2
-% Amirhossein safari 97101994
+
 
 %% load selected Train and Test features and y_train
 load('data/All_data')
